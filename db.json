@@ -124,45 +124,57 @@
 
   "locals": [
     {
-      "name": "India Today",
-      "author": null,
-      "title": "Google not approving Donald Trump’s social media app Truth Social on Play Store",
-      "description": "Not getting approved on Play Store after almost a year from its launch is a major setback for Trump's social media app as there are more than 40 per cent of Android users in the US.",
-      "url": "https://www.indiatoday.in/technology/news/story/google-not-approving-donald-trump-s-social-media-app-truth-social-on-play-store-1994608-2022-08-31",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202208/donald_trump-647x363.png?IrIiNng7A8CpS61Q6dPUEWbYkkEv6G_L",
-      "publishedAt": "2022-08-31T03:43:15Z",
-      "content": "Former US President Donald Trumps social media app is facing a hard time securing a place in the Play Store. Although the app is readily available on the Apple App Store, Google is taking its own swe… [+1938 chars]"
+        "article_url": "https://www.medicalnewstoday.com/articles/covid-headache",
+        "title": "Does COVID-19 cause headaches? A guide - Medical News Today",
+        "description": "Does COVID-19 cause headaches? A guide  Medical News Today",
+        "description_with_tag": "<a href=\"https://www.medicalnewstoday.com/articles/covid-headache\" target=\"_blank\">Does COVID-19 cause headaches? A guide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Medical News Today</font>",
+        "published_datetime": "2021-08-17T12:13:54+00:00",
+        "published_timestamp": 1629202434,
+        "image_url": "https://gnewsapi.net/redirect-news-image/ac473b985e7691a8ad016f6122ed44e2",
+        "source_name": "Medical News Today",
+        "source_url": "https://www.medicalnewstoday.com",
+        "source_domain": "www.medicalnewstoday.com"
     },
     {
-      "name": "CleanTechnica",
-      "author": "Zachary Shahan",
-      "title": "Kia EV6 Wins Winter Vehicle Award",
-      "description": "The hot new Kia EV6 has won an award I wasn’t aware even existed. The New England Motor Press Association awarded the EV6 with the title of “2022 Winter Vehicle Award For Best Electric Vehicle.” My first thought was, “does the EV6 really have any advantages o…",
-      "url": "https://cleantechnica.com/2022/08/30/kia-ev6-wins-winter-vehicle-award/",
-      "urlToImage": "https://cleantechnica.com/files/2022/08/Kia-EV6.jpeg",
-      "publishedAt": "2022-08-31T03:23:14Z",
-      "content": "The hot new Kia EV6 has won an award I wasn’t aware even existed. The New England Motor Press Association awarded the EV6 with the title of 2022 Winter Vehicle Award For Best Electric Vehicle. My fir… [+4002 chars]"
+        "article_url": "https://www.texastribune.org/2021/08/17/texas-governor-greg-abbott-positive-covid/",
+        "title": "Texas Gov. Greg Abbott tests positive for COVID-19 - The Texas Tribune",
+        "description": "Texas Gov. Greg Abbott tests positive for COVID-19  The Texas TribuneView Full coverage on Google News",
+        "description_with_tag": "<a href=\"https://www.texastribune.org/2021/08/17/texas-governor-greg-abbott-positive-covid/\" target=\"_blank\">Texas Gov. Greg Abbott tests positive for COVID-19</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Texas Tribune</font><strong><a href=\"https://news.google.com/stories/CAAqOQgKIjNDQklTSURvSmMzUnZjbmt0TXpZd1NoTUtFUWpadHZ2R2s0QU1FVklZbjVtUElPRUVLQUFQAQ?oc=5\" target=\"_blank\">View Full coverage on Google News</a></strong>",
+        "published_datetime": "2021-08-17T20:57:00+00:00",
+        "published_timestamp": 1629233820,
+        "image_url": "https://gnewsapi.net/redirect-news-image/56c4a97fa0eaf57afabf5e2ea3fe2ff8",
+        "source_name": "The Texas Tribune",
+        "source_url": "https://www.texastribune.org",
+        "source_domain": "www.texastribune.org"
     },
     {
-      "name": "Los Angeles Times",
-      "author": "Gregory Yee",
-      "title": "Driver killed in high-speed Tesla crash outside Palos Verdes Peninsula home",
-      "description": "The crash occurred shortly before noon at 27060 Sunnyridge Road, according to the California Highway Patrol.",
-      "url": "https://www.latimes.com/california/story/2022-08-30/driver-killed-tesla-crash-utility-pole-palos-verdes-peninsula-home",
-      "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/081c27e/2147483647/strip/true/crop/3018x1584+0+214/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F0a%2Fd9%2Ff5e0360a4a50a50da5231307c323%2Fteslapvcrash.jpg",
-      "publishedAt": "2022-08-31T03:01:36Z",
-      "content": "A driver was killed Tuesday when her Tesla crashed into a utility pole and through a homes front yard after speeding down a residential street on the Palos Verdes Peninsula. \r\nThe crash occurred shor… [+1088 chars]"
+        "article_url": "https://www.amnesty.org/en/latest/news/2021/08/somalia-wholly-inadequate-covid19-response-highlights-need-to-use-debt-relief-to-invest-in-health-care/",
+        "title": "Somalia: Wholly inadequate Covid-19 response highlights need to use debt relief to invest in healthcare - Amnesty International",
+        "description": "Somalia: Wholly inadequate Covid-19 response highlights need to use debt relief to invest in healthcare  Amnesty International",
+        "description_with_tag": "<a href=\"https://www.amnesty.org/en/latest/news/2021/08/somalia-wholly-inadequate-covid19-response-highlights-need-to-use-debt-relief-to-invest-in-health-care/\" target=\"_blank\">Somalia: Wholly inadequate Covid-19 response highlights need to use debt relief to invest in healthcare</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Amnesty International</font>",
+        "published_datetime": "2021-08-17T09:46:20+00:00",
+        "published_timestamp": 1629193580,
+        "image_url": "https://gnewsapi.net/redirect-news-image/72a358d838f7ac4d9a1762e40081265a",
+        "source_name": "Amnesty International",
+        "source_url": "https://www.amnesty.org",
+        "source_domain": "www.amnesty.org"
     },
     {
-      "name": "Yahoo Entertainment",
-      "author": "Charlotte Yang, Danny Lee and Jeanny Yu",
-      "title": "BYD Plunges as Buffett’s Stake Sale Spurs Bets on More Selling",
-      "description": "(Bloomberg) -- Traders rushed to sell BYD Co. after Warren Buffett’s Berkshire Hathaway Inc. trimmed its stake in the Chinese electric vehicle maker, fearing...",
-      "url": "https://finance.yahoo.com/news/byd-plunges-buffett-stake-sale-020018534.html",
-      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/dDaLNh79beCSxh2bGjcAjQ--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/dee0c9624a07e705c5433f54bdbac06d",
-      "publishedAt": "2022-08-31T02:41:22Z",
-      "content": "(Bloomberg) -- Traders rushed to sell BYD Co. after Warren Buffetts Berkshire Hathaway Inc. trimmed its stake in the Chinese electric vehicle maker, fearing that the legendary investor may be gearing… [+2273 chars]"
-    },
+        "article_url": "https://techcrunch.com/2021/08/17/twitter-report-misinformation/",
+        "title": "Twitter asks users to flag COVID-19 and election misinformation - TechCrunch",
+        "description": "Twitter asks users to flag COVID-19 and election misinformation  TechCrunch",
+        "description_with_tag": "<a href=\"https://techcrunch.com/2021/08/17/twitter-report-misinformation/\" target=\"_blank\">Twitter asks users to flag COVID-19 and election misinformation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+        "published_datetime": "2021-08-17T19:00:35+00:00",
+        "published_timestamp": 1629226835,
+        "image_url": "https://gnewsapi.net/redirect-news-image/a4b2fe3e2be45e9653f9ce203f43f0cd",
+        "source_name": "TechCrunch",
+        "source_url": "https://techcrunch.com",
+        "source_domain": "techcrunch.com"
+    }
+
+  ],
+
+  "regionals": [
     {
       "name": "Tech Times",
       "author": "Isaiah Richard",
@@ -204,10 +216,7 @@
       "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Fake-Tesla-crash-and-fire.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "publishedAt": "2022-08-31T02:11:01Z",
       "content": "An insurance company has faked a Tesla battery fire and crash as part of a bizarre showcase to show that electric cars cause more accidents.\r\nTesla vehicles have been tested by many auto safety agenc… [+2474 chars]"
-    }
-  ],
-
-  "regionals": [
+    },
     {
       "name": "Ars Technic",
       "author": "Benj Edwards",
@@ -270,6 +279,7 @@
     }
   ],
 
+
   "internationals": [
     {
       "name": "Daily Mail",
@@ -320,6 +330,45 @@
       "urlToImage": "https://cleantechnica.com/files/2022/08/Tesla-Model-S-steering-yoke-no-stalk.png",
       "publishedAt": "2022-08-31T01:29:12Z",
       "content": "Back when Tesla introduced the fact that the refreshed Model S would not have a stalk for changing between drive, reverse, neutral, and park (a “DRNP stalk”), some of us freaked out. “But how will yo… [+3635 chars]"
+    },{
+      "name": "India Today",
+      "author": null,
+      "title": "Google not approving Donald Trump’s social media app Truth Social on Play Store",
+      "description": "Not getting approved on Play Store after almost a year from its launch is a major setback for Trump's social media app as there are more than 40 per cent of Android users in the US.",
+      "url": "https://www.indiatoday.in/technology/news/story/google-not-approving-donald-trump-s-social-media-app-truth-social-on-play-store-1994608-2022-08-31",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202208/donald_trump-647x363.png?IrIiNng7A8CpS61Q6dPUEWbYkkEv6G_L",
+      "publishedAt": "2022-08-31T03:43:15Z",
+      "content": "Former US President Donald Trumps social media app is facing a hard time securing a place in the Play Store. Although the app is readily available on the Apple App Store, Google is taking its own swe… [+1938 chars]"
+    },
+    {
+      "name": "CleanTechnica",
+      "author": "Zachary Shahan",
+      "title": "Kia EV6 Wins Winter Vehicle Award",
+      "description": "The hot new Kia EV6 has won an award I wasn’t aware even existed. The New England Motor Press Association awarded the EV6 with the title of “2022 Winter Vehicle Award For Best Electric Vehicle.” My first thought was, “does the EV6 really have any advantages o…",
+      "url": "https://cleantechnica.com/2022/08/30/kia-ev6-wins-winter-vehicle-award/",
+      "urlToImage": "https://cleantechnica.com/files/2022/08/Kia-EV6.jpeg",
+      "publishedAt": "2022-08-31T03:23:14Z",
+      "content": "The hot new Kia EV6 has won an award I wasn’t aware even existed. The New England Motor Press Association awarded the EV6 with the title of 2022 Winter Vehicle Award For Best Electric Vehicle. My fir… [+4002 chars]"
+    },
+    {
+      "name": "Los Angeles Times",
+      "author": "Gregory Yee",
+      "title": "Driver killed in high-speed Tesla crash outside Palos Verdes Peninsula home",
+      "description": "The crash occurred shortly before noon at 27060 Sunnyridge Road, according to the California Highway Patrol.",
+      "url": "https://www.latimes.com/california/story/2022-08-30/driver-killed-tesla-crash-utility-pole-palos-verdes-peninsula-home",
+      "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/081c27e/2147483647/strip/true/crop/3018x1584+0+214/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F0a%2Fd9%2Ff5e0360a4a50a50da5231307c323%2Fteslapvcrash.jpg",
+      "publishedAt": "2022-08-31T03:01:36Z",
+      "content": "A driver was killed Tuesday when her Tesla crashed into a utility pole and through a homes front yard after speeding down a residential street on the Palos Verdes Peninsula. \r\nThe crash occurred shor… [+1088 chars]"
+    },
+    {
+      "name": "Yahoo Entertainment",
+      "author": "Charlotte Yang, Danny Lee and Jeanny Yu",
+      "title": "BYD Plunges as Buffett’s Stake Sale Spurs Bets on More Selling",
+      "description": "(Bloomberg) -- Traders rushed to sell BYD Co. after Warren Buffett’s Berkshire Hathaway Inc. trimmed its stake in the Chinese electric vehicle maker, fearing...",
+      "url": "https://finance.yahoo.com/news/byd-plunges-buffett-stake-sale-020018534.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/dDaLNh79beCSxh2bGjcAjQ--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/dee0c9624a07e705c5433f54bdbac06d",
+      "publishedAt": "2022-08-31T02:41:22Z",
+      "content": "(Bloomberg) -- Traders rushed to sell BYD Co. after Warren Buffetts Berkshire Hathaway Inc. trimmed its stake in the Chinese electric vehicle maker, fearing that the legendary investor may be gearing… [+2273 chars]"
     }
   ],
 
@@ -359,30 +408,6 @@
       "name": "sndoskl",
       "body": "lsdkkl ds",
       "id": 6
-    },
-    {
-      "title": "skd kls ",
-      "name": "sd lsk s",
-      "body": "dsnpmsp[kjpdsk",
-      "id": 7
-    },
-    {
-      "title": "kepowe",
-      "name": "pokpods",
-      "body": "opjspodjowpoejpfsml",
-      "id": 8
-    },
-    {
-      "title": "knsdpommsdpp[,s",
-      "name": "pmsdpopmslm",
-      "body": "psdponvs;lmdv;lmsl;ms;lmowpjewmmoopoooooooooofpomp",
-      "id": 9
-    },
-    {
-      "title": "opposm",
-      "name": "pmpm",
-      "body": "ppomdpsm;lmopjwo;,a;mmmopkp,eioewtiuiuiaajpomioejfmm",
-      "id": 10
     }
   ]
 }
