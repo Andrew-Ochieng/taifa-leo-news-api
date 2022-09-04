@@ -11,20 +11,10 @@
     "type": "git",
     "url": "git+ssh://git@github.com/Andrew-Ochieng/taifa-leo-news-api.git"
   },
-  "keywords": [
-    "json-server",
-    "heroku",
-    "node",
-    "REST",
-    "API"
-  ],
-  "author": "Andrew Ochieng",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Andrew-Ochieng/taifa-leo-news-api/issues"
-  },
   "dependencies": {
     "json-server": "^0.17.0"
   },
+  "author": "Andrew Ochieng",
+  "license": "ISC",  
   "homepage": "https://github.com/Andrew-Ochieng/taifa-leo-news-api#readme"
 }
