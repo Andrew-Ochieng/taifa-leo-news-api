@@ -1,0 +1,27 @@
+{
+  "name": "taifa-news-api",
+  "version": "1.0.0",
+  "description": "json database for taifa leo news api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Andrew-Ochieng/taifa-leo-news-api.git"
+  },
+  "keywords": [
+    "json-server",
+    "heroku",
+    "node",
+    "REST",
+    "API"
+  ],
+  "author": "Andrew Ochieng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andrew-Ochieng/taifa-leo-news-api/issues"
+  },
+  "homepage": "https://github.com/Andrew-Ochieng/taifa-leo-news-api#readme"
+}
